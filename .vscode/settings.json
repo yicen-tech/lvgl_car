@@ -1,0 +1,26 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "files.associations": {
+        "lv_demos.h": "c",
+        "evdev.h": "c",
+        "lvgl.h": "c",
+        "guider_fonts.h": "c",
+        "lv_font.h": "c",
+        "events_init.h": "c",
+        "lv_extra.h": "c",
+        "lv_widgets.h": "c",
+        "lv_analogclock.h": "c",
+        "weather_parser.h": "c",
+        "custom.h": "c",
+        "lv_theme.h": "c",
+        "gui_guider.h": "c",
+        "lv_demo_music.h": "c",
+        "lv_demo_music_list.h": "c",
+        "lv_demo_music_main.h": "c",
+        "spectrum_3.h": "c",
+        "video_logic.h": "c",
+        "camera_utils.h": "c",
+        "lv_table.h": "c",
+        "serial_comm.h": "c"
+    }
+}
